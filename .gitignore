@@ -1,1 +1,8 @@
 .venv
+*.zip
+*.jpg
+*.gif
+*.png
+*.svg
+data/
+2750
